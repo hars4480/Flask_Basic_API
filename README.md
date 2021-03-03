@@ -1,4 +1,4 @@
-# Flask_Basic_API
+# Flask_REST_API
 
  Activate venv
 
